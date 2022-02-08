@@ -1,0 +1,105 @@
+
+.upline{
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight:bolder;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  z-index: 5;
+
+}
+
+
+.oldpic{
+ 
+}
+a:link{
+  text-decoration:none;
+}
+a:hover{
+  color:rgb(255, 230, 9) !important;
+}
+.quote{
+  position: absolute;
+  bottom: 0px;
+  margin-right: 900px;
+  margin-left: 100px;
+  color:white;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.274);
+  margin-top: 100px;
+
+}
+.facil{
+
+  width:350px;
+  height:500px;
+  border-color: black;
+  padding-left: 100px;
+}
+.bottom{
+  width:100%;
+  height:50px;
+  background-color: rgb(41, 40, 40);
+  padding:100px;
+}
+
+.donate{
+  position: absolute;
+  left:1200px;;
+  top:400px;
+}
+.about{
+  position: absolute;
+  top: 700px;
+  width:99% ;
+  background-color: rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
+}
+
+.video{
+  position:absolute;
+  z-index: 4;
+  left: 900px;
+  top: 800px;
+  box-shadow: 2px 2px 10px grey;
+  width:35%;
+}
+
+.contact{
+  width:30%;
+  height: 715px;
+  position: absolute;
+  top:100px;
+  background-color: rgba(0, 0, 0, 0.205);
+  margin: 100px 0px 0px 50px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+.input{
+  border-width: 0px 0px 1px 0px;
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  position: absolute;
+  right: 100px;
+}
+#submit{
+  width: 100px;
+  height: 50px;
+  border-width: 0ch;
+  background-color: transparent;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 20px;
+  color: white;
+  border-radius: 30px;
+}
+#submit:hover{
+  background-color: rgb(108, 186, 255);
+}
+.anim{
+  background-color: azure;
+}
