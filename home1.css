@@ -1,21 +1,23 @@
 
 .upline{
   width: 100%;
-  padding-top: 30px;
-  padding-bottom: 20px;
+  padding-top: 1em;
+  padding-bottom: 2em;
   font-family: 'Roboto', sans-serif;
   font-weight:bolder;
   position: sticky;
-  top: 0px;
   background-color: white;
   z-index: 5;
+  display: flex;
+  
+
+}
+.upline a{
+  font-size: 1em;
+  padding-left: 3vw;
 
 }
 
-
-.oldpic{
- 
-}
 a:link{
   text-decoration:none;
 }
